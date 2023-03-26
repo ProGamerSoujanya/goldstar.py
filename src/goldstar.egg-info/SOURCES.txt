@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/goldstar/__init__.py
+src/goldstar.egg-info/PKG-INFO
+src/goldstar.egg-info/SOURCES.txt
+src/goldstar.egg-info/dependency_links.txt
+src/goldstar.egg-info/requires.txt
+src/goldstar.egg-info/top_level.txt
